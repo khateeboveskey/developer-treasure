@@ -6,6 +6,8 @@
   - [Code Editors](#code-editors)
   - [VS Code Extensions](#vs-code-extensions)
   - [Icons](#icons)
+  - [UI Libraries](#ui-libraries)
+    - [React](#react)
 
 ## Code Editors
 
@@ -87,3 +89,19 @@
 20. [Simple Icons](https://simpleicons.org/)
 21. [Typicons](https://www.s-ings.com/typicons/)
 22. [Google Fonts Icons](https://fonts.google.com/icons)
+
+## UI Libraries
+
+### React
+
+1. [Material UI](https://mui.com/)
+2. [Chakra UI](https://chakra-ui.com/)
+3. [Ant Design](https://ant.design/)
+4. [React Bootstrap](https://react-bootstrap.github.io/)
+5. [React Toolbox](https://react-toolbox.io/)
+6. [React Spectrum](https://react-spectrum.adobe.com/)
+7. [React Suite](https://rsuitejs.com/)
+8. [React MDL](https://tleunen.github.io/react-mdl/)
+9. [React Toolkit](https://react-toolkit.com/)
+10. [React Semantic UI](https://react.semantic-ui.com/)
+11. [Dot UI](https://dotui.org/)
